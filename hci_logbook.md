@@ -9,7 +9,7 @@ Work carried out by:
 **Title of the project**:-- ***[¿WhereTheBusAt?]***
 **Team:**
 - Student 1: André Ferreira - 119061
-- Student 2; [Name and Number]
+- Student 2: Solomiia Koba - 118313
 - Student 3: [Name and Number]
 
 ---
