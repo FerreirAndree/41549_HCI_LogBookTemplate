@@ -8,6 +8,7 @@
 
 # Context
 [What is the context for your work. What area of application. It can be travelling, pet treatment, shopping. State the overall context and why it is interesting to think about it.]
+
 Public transport is a key component of urban mobility, especially in cities like Aveiro, where a large number of students, workers and tourists, depend on buses daily to get around. BusWay Aveiro app is a useful tool, that allows to consult shedules and plan routes. 
 However, despite its usefulness, challenges persist. Users encounter inaccurate real-time information, dificulties in ticket purchasing or trip planning. As cities continue to embrace digitalization and users demand more seamless mobility experiences, there is an oportunity to enchace existing solutions by creating more efficient, reliable and user-friendly application that better meets the needs of Aveiro's diverse public transport users.
 
