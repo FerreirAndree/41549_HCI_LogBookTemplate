@@ -66,10 +66,11 @@
 
 | Task                        | Subtasks                               |
 | --------------------------- | -------------------------------------- |
-| **1. Buyng a grammar book** | Search for available grammar books     |
-|                             | Identify a specific book from the list |
-|                             | Add the selected book to the cart      |
-|                             | Proceeed to checkout                   |
+| **1. Consult shedules**     | Select "view shedules" section         |
+|                             | Choose a line						   |
+|                             | Define a direction			           |
+|                             | Select day type                        |
+|							  | Confirm and proceed with consulting    |
 
 
 | Task                          | Subtasks                                |
@@ -81,6 +82,19 @@
 
 
 #### Results
+
+Task: Consult shedules
+
+| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
+| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
+| 1      | [User select view shedules on the side bar of app]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |     |
+| 2      | [Step 2 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
+| 3      | [Step 3 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
+| ...    | [Further steps]        | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
+
+
+
+---
 
 Task: [This is the task]
 
