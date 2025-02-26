@@ -4,7 +4,7 @@ Nielsen Norman Group available at: https://media.nngroup.com/media/articles/atta
 
 **Evaluator**: [Solomiia Koba]
 **Date**: [26-02-2025]
-**Product**: [WhereTheBusAt]
+**Product**: [BusWay App]
 
 
 Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
