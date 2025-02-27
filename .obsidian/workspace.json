@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hci_logbook.md",
+                "file": "stage1_context/heuristic_evaluations/expert3_heuristic_evaluation_workbook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hci_logbook"
+              "title": "expert3_heuristic_evaluation_workbook"
             }
           }
         ]
@@ -181,17 +181,19 @@
   },
   "active": "44cd25551fc1981b",
   "lastOpenFiles": [
-    "README.md",
-    "presentation_2/p2__second_assignment_presentation.md",
-    "stage0_planning/a_stage_0_planning_problem_identification.md",
-    "presentation_1/p1_first_assignment_presentation.md",
-    "stage1_context/competitors/Competitor Analysis BusWay.md",
+    "stage1_context/heuristic_evaluations/severity_scale_heuristic_evaluation.md",
+    "stage1_context/heuristic_evaluations/expert3_heuristic_evaluation_workbook.md",
+    "stage1_context/heuristic_evaluations/expert2_heuristic_evaluation_workbook.md",
+    "stage1_context/heuristic_evaluations/expert1_heuristic_evaluation_workbook.md",
     "hci_logbook.md",
     "stage1_context/b_stage_1_context_definition.md",
-    "stage1_context/heuristic_evaluations/expert1_heuristic_evaluation_workbook.md",
-    "stage1_context/heuristic_evaluations/severity_scale_heuristic_evaluation.md",
+    "README.md",
+    "stage0_planning/a_stage_0_planning_problem_identification.md",
+    "stage1_context/interviews/interview-Bob.md",
+    "stage1_context/interviews/interview-template.md",
+    "stage1_context/competitors/Competitor Analysis BusWay.md",
     "stage1_context/competitors/Competitor Analysis Template.md",
-    "stage1_context/heuristic_evaluations/expert3_heuristic_evaluation_workbook.md",
-    "stage1_context/heuristic_evaluations/expert2_heuristic_evaluation_workbook.md"
+    "presentation_2/p2__second_assignment_presentation.md",
+    "presentation_1/p1_first_assignment_presentation.md"
   ]
 }
