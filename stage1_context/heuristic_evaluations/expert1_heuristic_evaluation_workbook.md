@@ -4,7 +4,7 @@ Nielsen Norman Group available at: https://media.nngroup.com/media/articles/atta
 
 **Evaluator**: [André Ferreira]
 **Date**: [23-02-2025]
-**Product**: [BusWay WebSite]
+**Product**: [BusWay App]
 
 Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
 Summary of each usability heuristic: [here](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
@@ -14,10 +14,10 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Does the design clearly communicate its state?
 >	- Is feedback presented quickly after user actions?
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| Something wrong | 1            |                |
-| Another thing   | 4            |                |
+| **Issue**                                                                                                                                                                                                                                                                                  | **Severity** | Recommendation                                                                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Aba de Popup com 3 vistas para consultar (paragens favoritas, próximas e histórico) requer que se deslize lateralmente para trocar entre vistas, umas vezes funciona outras não, não dão qualquer informação do porquê, nem indicam a maneira correta de trocar entre vistas.              | 2            | Colocar 2 botões de seta para trocar entre vistas, caso não seja possível efetuar a troca, lançar um aviso a justificar.                         |
+| Muito raramente têm no mapa a posição de um autocarro em tempo real, quando não o têm não indicam o porquê ou que haja um erro,  um utilizador que não saiba deste problema pode entrar numa linha, não ver nenhum autocarro e pensar que não existe nenhum autocarro na linha de momento. | 3            | Fazer o mapeamento de todos os autocarros na estrada, ou indicar quando existem autocarros em movimento numa linha mas não estão a ser mapeados. |
 
 # 2 Match Between System and The Real World
 >	The design should speak the users' language. Use words, phrases, and concepts familiar to the user, rather than internal jargon. Follow real-world conventions, making information appear in a natural and logical order. 
@@ -73,19 +73,19 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Does the design provide accelerators like keyboard shortcuts and touch gestures? 
 >	- Is content and funtionality personalized or customized for individual users?
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| **Issue**                                                                                                                                                                  | **Severity** | Recommendation                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------- |
+| Não disponibilizam um local com todas as linhas disponíveis para um utilizador que já saiba que linha(s) pretende usar na sua deslocação rapidamente aceder à(s) mesma(s). | 2            | Adicionar esse tal menu com todas as linhas disponíveis para uma rápida consulta dos seus horários e paragens. |
+| Another thing                                                                                                                                                              | 4            |                                                                                                                |
 # 8 Aesthetic and Minimalist Design
 >	Interfaces should not contain information that is irrelevant or rarely needed. Every extra unit of information in an interface competes with the relevant units of information and diminishes their relative visibility. 
 >	- Is the visual design and content focused on the essentials? 
 >	- Have all distracting, unnescessary elements been removed?
 
-| **Issue**       | **Severity** | Recommendation |
-| --------------- | ------------ | -------------- |
-| Something wrong | 3            |                |
-| Another thing   | 4            |                |
+| **Issue**                                                                                           | **Severity** | Recommendation        |
+| --------------------------------------------------------------------------------------------------- | ------------ | --------------------- |
+| O design é minimalista, só mostram o necessário, não correm grande risco de confundir o utilizador. | 0            | Ponto bem conseguido. |
+| Another thing                                                                                       | 4            |                       |
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
 >	- Does the design use traditional error message visuals, like bold, red text? 

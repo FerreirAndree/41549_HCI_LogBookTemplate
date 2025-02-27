@@ -67,10 +67,10 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 >	- Does the design keep important information visible, so that users do not have to memorize it? 
 >	- Does the design offer help in-context?
 
-| **Issue**                                                                                      | **Severity** | Recommendation                                                                                                                |
-| ---------------------------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| Schedules are in a different subpage to warnings.                                              | 3            | Put them in the same subpage.                                                                                                 |
-| Different Squedule pages for different destinations, even ones that go through the same route. | 2            | Reorganize the routes page or make it a single one. Perhaps give an estimation of the course and routes you are able to take. |
+| **Issue**                                                                                       | **Severity** | Recommendation                                                                                                                |
+| ----------------------------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| Schedules are in a different subpage to warnings.                                               | 3            | Put them in the same subpage.                                                                                                 |
+| Different Schuedule pages for different destinations, even ones that go through the same route. | 2            | Reorganize the routes page or make it a single one. Perhaps give an estimation of the course and routes you are able to take. |
 
 # 7 Flexibility and Efficiency of Use
 >	Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions. 
