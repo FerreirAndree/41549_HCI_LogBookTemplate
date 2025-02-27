@@ -66,10 +66,11 @@
 
 | Task                        | Subtasks                               |
 | --------------------------- | -------------------------------------- |
-| **1. Buyng a grammar book** | Search for available grammar books     |
-|                             | Identify a specific book from the list |
-|                             | Add the selected book to the cart      |
-|                             | Proceeed to checkout                   |
+| **1. Consult shedules**     | Select "view shedules" section         |
+|                             | Choose a line						   |
+|                             | Define a direction			           |
+|                             | Select day type                        |
+|							  | Confirm and proceed with consulting    |
 
 
 | Task                          | Subtasks                                |
@@ -82,7 +83,20 @@
 
 #### Results
 
-Task: [This is the task]
+Task: Consult shedules
+
+| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
+| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
+| 1      | User select view shedules in the side menu   | Yes | The label is clear and visible                                         |  Yes      |  Screen changes                                                                                  |Yes        | No suggestion needed                       |              |     |
+| 2      | Choose a line   | Yes                                         | The interface clearly presents a list of lines      | Yes                                                                                  | The selected line appears below      | Yes                       | Search bar for lines searching              |     |
+| 3      | User must choose a direction before proceeding   | Maybe                                         | If users try to skip this step, they are blocked without explanation      | Yes                                                                                  |Appears below       | Yes                       | The selection of a direction is mandatory before choosing the day type, but it is not clear enough. The interface doesn't indicate, that direction selection is required next step. Suggestions: add a visual indicator to guide user through the process and tooltips              |     |
+| 4    | User should select a type of day        | No                                         | The option is disabled until previous steps are completed, but it isn't obvious      | No                                                                                  | User may not understand why they can't select the day type       | No                       | Add tooltips and appropriate messages of error               |     |
+| 5    | Confirm and proceed to view shedules        | Yes                                         | The shedules loads successfully      | Yes                                                                                  |The final shedule appears       | Yes                       | No changes needed               |     |
+
+
+---
+
+Task2: [This is the task2]
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |

@@ -9,8 +9,8 @@ Work carried out by:
 **Title of the project**:-- ***[¿WhereTheBusAt?]***
 **Team:**
 - Student 1: André Ferreira - 119061
-- Student 2; [Name and Number]
-- Student 3: [Name and Number]
+- Student 2: Solomiia Koba - 118313
+- Student 3: Gonçalo Ribau - 119560
 
 ---
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)
