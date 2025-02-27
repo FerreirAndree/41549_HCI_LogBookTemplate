@@ -1,6 +1,6 @@
-# Competitor Analysis: [BusWay WebApp] 
+# Competitor Analysis: [BusWay App] 
 ## General Information 
-- **Name of System:** [BusWay webapp] 
+- **Name of System:** [BusWay App] 
 - **Company/Developer:** [BusWay] 
 - **Website/Product Page:** [BusWay Website](https://busway-cira.pt/) 
 - **Version/Release Date:** [If applicable] 
