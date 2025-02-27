@@ -11,42 +11,56 @@
 ## Task Overview 
 
  **What task is the user trying to accomplish?** 
-[Describe the task in the user’s words] 
+-How often do you travel by bus?
+-What is the main purpose of your trips? 
 
-**What are the main pain points or difficulties they experience?** 
+**What are the main difficulties you face when using buses?**
 - [Challenge 1] 
 - [Challenge 2] 
 - [Challenge 3] 
 
-**Are there any workarounds or strategies they currently use?** 
+**What strategies have you developed to deal with these difficulties? How you plan your trips** 
 - [List of workarounds] 
 
 ---- 
 ## Tools & Environment 
-**What tools or methods does the user currently rely on?** 
+**What apps or methods do you use to manage your trips?** 
 - [Tool 1] 
 - [Tool 2] 
 - [Any manual processes] 
 
-**Are there any frustrations or limitations with these tools?** 
+**What difficulties do you encounter in using these tools?** 
 - [Limitation 1] 
 - [Limitation 2] 
 
-**What features do they wish these tools had?** 
+**What features would you like these tools to have?** 
 - [Feature 1] 
 - [Feature 2] 
+
+**Are there any features that would be useful and are missing?**
+- [Feature 1] 
+- [Feature 2] 
+
+**What specific problems would you like to be solved?**
+- [Problem 1] 
+- [Problem 2] 
+
 --- 
 ## Expectations for a Novel Approach 
 
-**What would an ideal solution look like for them?** 
+**What would the ideal app look like for you?** 
 - [Key expectations] 
 
-**What concerns or hesitations do they have about new approaches?** 
-- [Concern 1] 
-- [Concern 2] 
+**What would be different from existing applications?** 
+- [Different 1] 
+- [Different 2] 
 
-**How do they measure success for completing the task efficiently?** 
-- [Efficiency metric or criteria] 
+**Which features do you find most useful??** 
+- (Real-time monitoring, accurate arrival time prediction, option to save itineraries as favorites,
+integration with other means of transport (trains, etc.), ticket purchase and management, notifications about route changes, delays, promotions or discounts)
+
+**How would you measure the success of a new application?**
+(Transportation arriving on time at destination, ease of use, accuracy of information...)
 
 --- 
 ## Additional Observations 
