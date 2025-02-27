@@ -16,7 +16,7 @@
 
 **What are the main difficulties you face when using buses?**
 - [Challenge 1] 
-- [Challenge 2] 
+- [Challenge 2]
 - [Challenge 3] 
 
 **What strategies have you developed to deal with these difficulties? How you plan your trips** 
