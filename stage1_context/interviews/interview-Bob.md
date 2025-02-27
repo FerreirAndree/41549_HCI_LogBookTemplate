@@ -11,10 +11,16 @@
 ## Task Overview 
 
  **What task is the user trying to accomplish?** 
+
 -How often do you travel by bus?
+
 -What is the main purpose of your trips? 
+(Trabalho, compras, estudo, descanso...)
 
 **What are the main difficulties you face when using buses?**
+
+    (Problems with schedules/delays, difficulties in finding information, capacity issues, problems in finding stops, difficulties with tickets/passes, long waiting times between buses, changes without notice...)
+
 - [Challenge 1] 
 - [Challenge 2]
 - [Challenge 3] 
@@ -25,11 +31,15 @@
 ---- 
 ## Tools & Environment 
 **What apps or methods do you use to manage your trips?** 
+
+(Apps, information at ticket offices, information at stops, websites...)
 - [Tool 1] 
 - [Tool 2] 
 - [Any manual processes] 
 
 **What difficulties do you encounter in using these tools?** 
+
+(Information not up to date, complicated interface, lack of notifications, arrival or departure time impressed)
 - [Limitation 1] 
 - [Limitation 2] 
 
