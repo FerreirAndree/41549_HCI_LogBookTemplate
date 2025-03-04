@@ -50,6 +50,12 @@
 | Something wrong | 3            | 1        | 0        | Something could be done to the button to... |
 | Another thing   | 4            | 3        | 4        | Other thing to recommend                    |
 | ...             |              |          |          |                                             |
+|                 |              |          |          |                                             |
+|                 |              |          |          |                                             |
+|                 |              |          |          |                                             |
+|                 |              |          |          |                                             |
+|                 |              |          |          |                                             |
+|                 |              |          |          |                                             |
 
 
 
