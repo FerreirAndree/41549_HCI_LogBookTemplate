@@ -18,16 +18,35 @@ Work carried out by:
 
 <!-- For this stage you will need to read this:-->
 
+- Choice of the project idea:
+We made a list with a bunch of ideas like the following:
+
+IHC - ideias
+- Freelancing (o eu quer que seja)
+- Notion Ripoff
+- Reservas (Restaurantes, Hoteis, ...)
+- Sistema de aprendizagem online com feedback
+- Gestor de estacionamento
+- Itenerario para limpesa de piscinas
+
+Meio standard:
+- Compra de viagens
+
+But since one of our member missed his bus and seemed pretty passionate about it, we decided to choose to do an app that monitors and gives real time feedback about schedules and routes of the buses of one company. For the competitor we decided to choose BusWay, a public transportation company in Aveiro. We called it "¿WhereTheBusAt?".
 
 # [B. Stage 1 - Context Definition](stage1_context/b_stage_1_context_definition.md)
 > 	This stage spans weeks 2 and 3. It entails identifying competitors, analyse the most representative using heuristic evaluation and cognitive walkthrough, and understand how users currently approach the problem and their expectations and needs.
 
-
+- Heuristic Evaluation:
+Each of us did an Heuristic Evaluation of the WebApp from BusWay, giving our own opinions about its use and design.
  
 # [C. Stage 2 - Requirement Analysis](stage2_requirements/c_stage_2_requirement_definition.md)
 >	This stage corresponds to weeks 3 and 4, running in parallel with Stage 1, in week 3. After having the context, the obtained information is gathered in Personas and scenarios are built describing the vision for the new solution. Finally, requirements are defined.
 <!-- Based on the context definition and the devised scenarios, specify the requirements -->
 
+
+- Building the personas:
+We made 3 personas to deal with the three main kinds of people who use existent applications or would use ours, with somewhat different personalities, qualities and ability range.
 
 ---
 # [P1 - First Assignment Presentation](presentation_1/p1_first_assignment_presentation.md)

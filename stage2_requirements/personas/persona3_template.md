@@ -1,7 +1,7 @@
-# ![Persona Name](personas/persona2.jpg)  
-**Name:** [Andreia Lopes]  
-**Age:** [26]
-**Occupation:** [Assistente de Marketing]  
+# ![Persona Name](personas/persona3.jpg)  
+**Name:** [Dona Silvia]  
+**Age:** [67]
+**Occupation:** [Comerciante]  
 **Location:** [Aveiro, Portugal]  
 
 ## Background  
