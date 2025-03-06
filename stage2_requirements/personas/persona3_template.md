@@ -1,13 +1,11 @@
-# Persona Andrea
-![alt text](andrea.png)
-**Name:** Andreia Lopes   
-**Age:** 26  
-**Occupation:** Assistente de Marketing  
-**Location:** Aveiro, Portugal  
+# ![Persona Name](personas/persona3.jpg)  
+**Name:** [Dona Silvia]  
+**Age:** [67]
+**Occupation:** [Comerciante]  
+**Location:** [Aveiro, Portugal]  
 
 ## Background  
-[Describe the persona's background, including their education, work experience, and any relevant personal history. This should be written as a short, engaging narrative that helps to contextualize the persona.] 
-Andrea is 26-year-old marketing assistant in Aveiro. She graduated from University of Aveiro with a degree in marketing.
+[Describe the persona's background, including their education, work experience, and any relevant personal history. This should be written as a short, engaging narrative that helps to contextualize the persona.]  
 
 ## Daily Life  
 [Describe a typical day in their life. What do they do from morning to evening? How do they interact with technology, products, or services? What challenges do they face?]  

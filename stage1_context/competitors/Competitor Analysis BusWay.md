@@ -1,22 +1,25 @@
-# Competitor Analysis: [BusWay App] 
+# Competitor Analysis: BusWay App 
 ## General Information 
-- **Name of System:** [BusWay App] 
-- **Company/Developer:** [BusWay] 
+- **Name of System:** BusWay App 
+- **Company/Developer:** BusWay 
 - **Website/Product Page:** [BusWay Website](https://busway-cira.pt/) 
-- **Version/Release Date:** [If applicable] 
-- **Platform(s) Supported:** [Mobile (iOS/Android)] 
+- **Version/Release Date:** 17-10-2024
+- **Platform(s) Supported:** Mobile (iOS/Android) 
 - **Target Audience:** "Residentes e visitantes da região de Aveiro que utilizam os transportes públicos para deslocações urbanas e intermunicipais. Inclui passageiros de todas as idades, com ofertas específicas para crianças, estudantes, adultos e seniores. O serviço também atende turistas interessados em explorar a região através de opções de transporte acessíveis e convenientes." - *Retirado do website da BusWay*
 
 --- 
 ## Core Functionality 
-
 **Primary Purpose:** 
+	
 	- Allow Users to consult bus routes, its timetables and fares.
 	
-**Key Features:** - [Feature 1] - [Feature 2] - [Feature 3] 
+**Key Features:** 
 
+	- Live Bus Tracking;
+	- Timetable and Route Information;
+	- Monthly Pass Recharge via the app;
 **Unique Selling Points (USPs):** 
-	- If they did what they claim, the Bus Live-Tracking is a Game-Changer in the industry...
+	The Bus Live-Tracking feature could revolutionize the user experience by providing real-time bus locations.
 
 **Limitations/Weaknesses:** 
 	- The live tracking functionality doesn't work properly, they only track maybe 2 or 3 buses a day (An Uninformed user might look at it and think there are no buses on the road at a given moment, given that they claim to have 'Live-Tracking'.)
@@ -26,6 +29,13 @@
 ---
 
 ## Screenshots
-
+<img src="bw1.webp" width="155" />
+<img src="bw2.webp" width="155" />
+<img src="bw3.webp" width="155" />
 
 ## Online Reviews
+The BusWay app currently has 1,000+ downloads on the Google Play Store. On Google, it is possible to encounter mixed reviews. There are users who appreciate the convenience of being able to check bus schedules and recharge their monthly passes via the app and published complaints about the accuracy of the live tracking feature and the app's user interface.
+
+**Positive feedback:** Users have highlighted the usefulness planning trips and shedules consulting.
+
+**Negative feedback:** Many users find the bus tracking unreliable and complaint about difficulties in use and inaccurancy of information.

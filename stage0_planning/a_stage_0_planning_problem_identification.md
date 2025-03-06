@@ -22,6 +22,7 @@ There are some significant aspects that ..
 
 # The goal
 [In a short sentence state what is the problem you wish to address]
+
 The goal of the application WhereTheBusAt is to develop eficient solution with improved bus-tracking and trip-planning for Aveiro with intuitive ticketing system to enhace the public transport experience, making it more reliable and user-friendly.
 
 
