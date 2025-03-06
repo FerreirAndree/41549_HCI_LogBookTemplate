@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21fb0127e6de2116",
+        "id": "419890f228961844",
         "type": "tabs",
         "children": [
           {
-            "id": "5f7c9da53de199d2",
+            "id": "2b240d48db73b348",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,28 +180,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f7c9da53de199d2",
+  "active": "2b240d48db73b348",
   "lastOpenFiles": [
+    "stage2_requirements/personas/persona2_template.md",
+    "stage2_requirements/c_stage_2_requirement_definition.md",
+    "stage2_requirements/personas/persona3_template.md",
+    "stage1_context/interviews/interview-Ivan-Gomes.md",
+    "stage1_context/interviews/interview-Bernardo-Lázaro.md",
+    "stage2_requirements/personas/persona1_template.md",
+    "hci_logbook.md",
     "stage2_requirements/personas/andrea.png",
+    "stage2_requirements/personas/persona3.jpg",
+    "stage2_requirements/personas/persona2.jpg",
     "stage1_context/interviews/interview-Liliana.md",
     "stage1_context/interviews/interview-Diogo.md",
     "stage1_context/competitors/bw3.webp",
     "stage1_context/competitors/bw2.webp",
     "stage1_context/competitors/bw1.webp",
-    "stage2_requirements/personas/persona3_template.md",
-    "stage2_requirements/personas/persona2_template.md",
-    "stage2_requirements/personas/persona1_template.md",
-    "hci_logbook.md",
     "stage1_context/b_stage_1_context_definition.md",
     "stage1_context/heuristic_evaluations/expert2_heuristic_evaluation_workbook.md",
     "stage1_context/heuristic_evaluations/expert1_heuristic_evaluation_workbook.md",
     "stage1_context/heuristic_evaluations/expert3_heuristic_evaluation_workbook.md",
-    "stage2_requirements/personas/persona3.jpg",
-    "stage2_requirements/c_stage_2_requirement_definition.md",
     "stage2_requirements/personas/persona1.jpg",
-    "stage2_requirements/personas/persona2.jpg",
     "stage1_context/heuristic_evaluations/severity_scale_heuristic_evaluation.md",
-    "stage1_context/interviews/interview-Bernardo-Lázaro.md",
     "stage0_planning/a_stage_0_planning_problem_identification.md",
     "stage1_context/competitors/Competitor Analysis BusWay.md",
     "stage1_context/competitors/Competitor Analysis Template.md",
@@ -211,9 +212,7 @@
     "stage2_requirements/personas/persona2.jpeg",
     "stage2_requirements/personas/persona1.jpeg",
     "stage2_requirements/personas/persona3.webp",
-    "stage2_requirements/personas/persona3.jpeg",
     "stage1_context/interviews/interview-Diogo-Duarte.md",
-    "stage1_context/interviews/interview-Ivan-Gomes.md",
     "presentation_2/p2__second_assignment_presentation.md",
     "presentation_1/p1_first_assignment_presentation.md"
   ]

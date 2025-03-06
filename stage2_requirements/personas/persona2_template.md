@@ -1,8 +1,8 @@
 # ![Andreia Lopes|300](personas/persona2.jpg)  
-**Name:** [Andreia Lopes]
-**Age:** [26]
-**Occupation:** [Marketing Manager] 
-**Location:** [Aveiro, Portugal] 
+**Name:** Andreia Lopes
+**Age:** 21
+**Occupation:** Marketing Student at Aveiro University
+**Location:** Aveiro, Portugal
 
 ## Background  
 [Describe the persona's background, including their education, work experience, and any relevant personal history. This should be written as a short, engaging narrative that helps to contextualize the persona.]  
