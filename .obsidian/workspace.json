@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stage1_context/interviews/interview-Diogo-Duarte.md",
+                "file": "stage1_context/b_stage_1_context_definition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "interview-Diogo-Duarte"
+              "title": "b_stage_1_context_definition"
             }
           }
         ],
@@ -196,11 +196,11 @@
   },
   "active": "c139df2df9f1d66c",
   "lastOpenFiles": [
+    "stage1_context/interviews/interview-Diogo-Duarte.md",
     "stage1_context/b_stage_1_context_definition.md",
     "stage1_context/competitors/Competitor Analysis BusWay.md",
     "stage0_planning/a_stage_0_planning_problem_identification.md",
     "stage1_context/competitors/Competitor Analysis Template.md",
-    "stage1_context/interviews/interview-Diogo-Duarte.md",
     "stage1_context/heuristic_evaluations/severity_scale_heuristic_evaluation.md",
     "stage1_context/interviews/interview-template.md",
     "stage1_context/interviews/interview-Bernardo-Lázaro.md",
