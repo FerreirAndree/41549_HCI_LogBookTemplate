@@ -1,4 +1,4 @@
-# ![Persona Name](personas/persona1.jpg)  
+# ![João Alberto|250](personas/persona1.jpg)  
 **Name:** [João Alberto]  
 **Age:** [15]
 **Occupation:** [Student]  

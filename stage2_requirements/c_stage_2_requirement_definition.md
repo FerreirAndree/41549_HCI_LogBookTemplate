@@ -13,7 +13,7 @@
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)  |
+| **Photo**        | ![Persona Name\|200](personas/persona1.jpg)   |
 | **Name**         | [Persona Name]                                |
 | **Age**          | [Persona Age]                                 |
 | **Occupation**   | [Job Title or Role]                           |
@@ -28,7 +28,7 @@
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name](path/to/photo.jpg)            |
+| **Photo**        | ![Persona Name\|200](personas/persona2.jpg)   |
 | **Name**         | [Persona Name]                                |
 | **Age**          | [Persona Age]                                 |
 | **Occupation**   | [Job Title or Role]                           |
