@@ -17,10 +17,12 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                      | **Severity** | Recommendation            |
 | ------------------------------ | ------------ | ------------------------- |
-| Loading indicators missing  spinners or while searching shedules | 2     | Add loading spinners|
+| Loading indicators missing or while searching shedules | 2     | Add loading spinners|
 | Error message about incorrect setting of notifications is unclear  |   3    | Display clear error message with troubleshooting tips|
-| Delayed or missing updates on shedule changes |       3       | Implement notifications for real-time changes or delays, add alerts section|
-| Missing descriptive information (e.g.originally, it's difficult to understand the purpose of "man", some values etc)|      1        | Add description labels like "bus stop in: - mins" to help user get what the system is displaying |
+| Delayed or missing updates on shedule changes (when a bus is delayed, but its shedule isn't updated, it doesn't appear anymore) |       3       | Implement notifications for real-time changes or delays, add alerts section|
+| Missing descriptive information (e.g.originally, it's difficult to understand the purpose of "man", some values etc)|      2        | Add description labels like "bus stop in: - mins" to help user get what the system is displaying |
+The app does not clearly communicate why the information is unavailable while route selection, it shows "no available information" instead of explain directly the reason| 3 | Show clearer messages with indications how to proceed
+
 
 
 # 2 Match Between System and The Real World
@@ -30,7 +32,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                      | **Severity** | Recommendation            |
 | ------------------------------ | ------------ | ------------------------- |
-| The distance to bus stop is always "0m"| 3 | Recalculate distance to show useful and real values  |
+| The distance to bus stop is always "0m"| 2 | Recalculate distance to show useful and real values  |
 | The icon for user location can be confused with search icon| 1  | Use diferent icon         | 
 
 
@@ -66,6 +68,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | No confirmation before deleting saved routes|      3        |  Add confirmation prompt  |
 
 
+
 # 6 Recognition Rather than Recall
 >	Minimize the user's memory load by making elements, actions, and options visible. The user should not have to remember information from one part of the interface to another. Information required to use the design (e.g. field labels or menu items) should be visible or easily retrievable when needed. 
 >	- Does the design keep important information visible, so that users do not have to memorize it? 
@@ -74,7 +77,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 | **Issue**                      | **Severity** | Recommendation            |
 | ------------------------------ | ------------ | ------------------------- |
 | User need remember exact names of bus stop for searching|3 |  Implement automatic sugestions (based on name of location)    |
-| No guidance when route or bus stop isn't foun| 2 |  Suggest nearby stops or auto-correct input|
+| No guidance when route or bus stop isn't found| 2 |  Suggest nearby stops or auto-correct input|
 
 # 7 Flexibility and Efficiency of Use
 >	Shortcuts — hidden from novice users — may speed up the interaction for the expert user such that the design can cater to both inexperienced and experienced users. Allow users to tailor frequent actions. 
@@ -83,7 +86,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                      | **Severity** | Recommendation            |
 | ------------------------------ | ------------ | ------------------------- |
-| No option to change app language|    3        | Add language option in  settings menu  |
+| No option to change app language|    3        | Add language option in settings menu  |
 
 
 # 8 Aesthetic and Minimalist Design
@@ -93,7 +96,7 @@ Summary of each usability heuristic: [here](https://media.nngroup.com/media/arti
 
 | **Issue**                      | **Severity** | Recommendation            |
 | ------------------------------ | ------------ | ------------------------- |
-| Font size is too small on some pages|   2     | Add language option in settings menu  |
+| Font size is too small on some pages|   2     | Set bigger font or allow users to edit the size  |
 
 # 9 Help Users Recognize, Diagnose, and Recover from Errors
 >	Error messages should be expressed in plain language (no error codes), precisely indicate the problem, and constructively suggest a solution. 
