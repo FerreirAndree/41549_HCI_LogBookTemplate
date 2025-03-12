@@ -2,11 +2,12 @@
 **Name:** Andreia Lopes
 **Age:** 21
 **Occupation:** Marketing Student at Aveiro University
-**Location:** Aveiro, Portugal
+**Location:** Aradas, Aveiro, Portugal
 
 ## Background  
-[Describe the persona's background, including their education, work experience, and any relevant personal history. This should be written as a short, engaging narrative that helps to contextualize the persona.]  
-Andreia is from a small village in the outskirts of Aveiro. She has always been a scholar and her passion for marketing made her the person she is today,  So much she enrolled in a university course in marketing. She comes from a humble family. Her father worked a stable office job designing houses (currently unemployed), and her mother is a Merchant. She never had financial problems, but her family wasn't the richest overall. She works in an Aveiro Corporation as the Marketing Manager. She's a kind, laid back, determined, hardworking and disciplined person.
+[Describe the persona's background, including their education, work experience, and any relevant personal history. This should be written as a short, engaging narrative that helps to contextualize the persona.] 
+
+Andreia is from a small village Aradas in the outskirts of Aveiro. She has always been a scholar and her passion for marketing made her the person she is today,  So much she enrolled in a university course in marketing. She comes from a humble family. Her father worked a stable office job designing houses (currently unemployed), and her mother is a Merchant. She never had financial problems, but her family wasn't the richest overall. She works in an Aveiro Corporation as the Marketing Manager. She's a kind, laid back, determined, hardworking and disciplined person.
 ## Daily Life  
 [Describe a typical day in their life. What do they do from morning to evening? How do they interact with technology, products, or services? What challenges do they face?]  
 She always wakes up at 6 am, so she has time to work out and take care of  herself before heading to the bus stop for work. Working doesn't change much, apart from the time to time interaction she has with her coworkers. After getting home, she takes care of unfinished work she has, and then, after having dinner, heads on to the living room to watch some TV with her family before bed.
