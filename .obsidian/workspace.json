@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stage2_requirements/personas/persona2_template.md",
+                "file": "stage2_requirements/c_stage_2_requirement_definition.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "persona2_template"
+              "title": "c_stage_2_requirement_definition"
             }
           }
         ]
@@ -182,6 +182,7 @@
   },
   "active": "5f7c9da53de199d2",
   "lastOpenFiles": [
+    "stage2_requirements/personas/persona2_template.md",
     "stage2_requirements/personas/persona1_template.md",
     "stage2_requirements/personas/persona3_template.md",
     "stage2_requirements/personas/persona3.jpg",
@@ -196,7 +197,6 @@
     "stage1_context/heuristic_evaluations/expert1_heuristic_evaluation_workbook.md",
     "stage1_context/interviews/interview-Diogo.md",
     "stage1_context/interviews/interview-Bob.md",
-    "stage2_requirements/personas/persona2_template.md",
     "stage1_context/b_stage_1_context_definition.md",
     "stage1_context/heuristic_evaluations/expert2_heuristic_evaluation_workbook.md",
     "stage1_context/heuristic_evaluations/expert3_heuristic_evaluation_workbook.md",

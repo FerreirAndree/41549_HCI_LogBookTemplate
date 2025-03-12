@@ -34,18 +34,22 @@
 
 
 # Example of a Scenario:
-## Scenario Ex: Maria goes on a Museum Tour
+## Scenario Andreia catches a new bus line
 
-[Maria had always loved modern art, but she often found museum visits overwhelming—so many exhibits, so much information, and little guidance on where to start. Today, she was visiting a contemporary art museum that had recently introduced an **interactive guide**.  ]
-
-[As she entered the museum, Maria received a notification on her phone, reminding her to launch the app. She opened it and was greeted with a personalized welcome screen. The system, aware of her general interests in **digital media and abstract art**, suggested a self-guided tour tailored to her preferences.  ]
-
-[Curious, Maria followed the suggested path. As she approached the first painting, the guide vibrated slightly—a prompt that additional content was available. Holding up the guide, she saw an **overlay** appear on the screen, revealing a time-lapse animation of the artist creating the piece. A small **audio clip** played, explaining the artist’s thought process and influences. Maria found this fascinating; it was as if the artwork was coming to life in front of her.  ]
-
-[As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned.  ]
+Andreia just got out from the "CRM Management" class (on ISCAA) on a Thursday at 17:00. 
+She needs to rush to her friend's house to grab some things she forgot there the night before to then go home. 
+She needs to get the first bus passing by the University ASAP but she doesn't yet know which bus she'll need to catch to get there, so she opens up the app, selects her friend's house location (roughly) on the app's map and clicks on 'plan trip'. 
+After a few seconds she gets the outline of the trip there with the buses she has to catch to get there, luckily she only needs to catch bus 36. There she has the option to select the line right away, she clicks it, and all the buses from that line currently on the road pop up on the map, she notices there's one fairly close to her, she checks the live estimated time for the bus to arrive at ISCAA's stop, it's 3 minutes out. 
+The bus arrives, she catches it, buys the ticket to the driver and off she goes…
 
 
-# Scenario 1: Andreia goes to work
+# Scenario x: Andreia catches the bus to University
+
+It's 8:15 A.M. Andreia is about to leave home to head to University, but it's pouring outside and she doesn't want to get wet. 
+That said, she needs to spend the minimum amount of time outside between leaving home and catching the bus… So she opens up *¿WhereTheBusAt?* goes to her favorites and selects the line she catches every day to go to Uni. 
+Now she can see that the bus is still about 4km away from her stop, which will take roughly 7 minutes, she waits for a while and when it is about to arrive she leaves, catches it, and off she goes.
+
+
 
 
 ---
@@ -59,7 +63,8 @@
 
 ## C.1. Functional requirements
 
-
+- Live Bus Tracking
+- 
 ## C.2. Non-functional requirements
 
 
