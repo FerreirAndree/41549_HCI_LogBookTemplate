@@ -94,14 +94,13 @@ We selected the tasks that are critical for user experience in public transport 
 
 | Task                          | Subtasks                                |
 | ----------------------------- | --------------------------------------- |
-| **2. Plan a trip**            | 1. Open the app |
-|								| 2. Open "Route planning" section
-|                               | 3. Select user's current location (initial point)                 |
-|                               | 4. Choose destination              |
-|                               | 5. Put the time        |
-|								| 6. Select route option (faster/...)
-| 								| 7. Confirm the information above|
-| 								| 8. Observe the exibited route (if the input was correct) and consult details of route
+| **2. Plan a trip**            | 1. Open the app and go to "Route planning" section|
+|								| 2. Select user's current location
+|                               | 3. Choose destination                 |
+|                               | 4. Put the time              |
+|                               | 5. Select route option (faster/...)        |
+|								| 6. Confirm the information above
+| 								| 7. Observe the exibited route (if the input was correct) and consult details of route
 
 
 
@@ -113,8 +112,8 @@ Task1: Consult shedules
 | ------ | ---------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1      | User select view shedules in the side menu     | Yes                                              | The label is clear and visible                                                  | Yes                                                                                       | Screen changes                                             | Yes                            | No suggestion needed                                                                                                                                                                                                                                                   |
 | 2      | Choose a line                                  | Yes                                              | The interface clearly presents a list of lines                                  | Yes                                                                                       | The selected line appears below                            | Yes                            | Search bar for lines searching                                                                                                                                                                                                                                         |
-| 3      | User must choose a direction before proceeding | Maybe                                            | If users try to skip this step, they are blocked without explanation            | Yes                                                                                       | Appears below                                              | Yes                            | The selection of a direction is mandatory before choosing the day type, but it is not clear enough. The interface doesn't indicate, that direction selection is required next step. Suggestions: add a visual indicator to guide user through the process and tooltips |
-| 4      | User should select a type of day               | No                                               | The option is disabled until previous steps are completed, but it isn't obvious | No                                                                                        | User may not understand why they can't select the day type | No                             | Add tooltips and appropriate messages of error                                                                                                                                                                                                                         |
+| 3      | User must choose a direction before proceeding | Yes                                            | If users try to skip this step, they are blocked without explanation            | Yes                                                                                       | Appears below                                              | Yes                            | The selection of a direction is mandatory before choosing the day type, but it is not clear enough. The interface doesn't indicate, that direction selection is required next step. Suggestions: add a visual indicator to guide user through the process and tooltips |
+| 4      | User should select a type of day               | No                                               | The option is disabled until previous steps are completed, but it isn't obvious | No                                                                                        | User may not understand why they can't select the day type | Yes                             | Add tooltips and appropriate messages of error                                                                                                                                                                                                                         |
 | 5      | Confirm and proceed to view shedules           | Yes                                              | The shedules loads successfully                                                 | Yes                                                                                       | The final shedule appears                                  | Yes                            | No changes needed                                                                                                                                                                                                                                                      |
 
 
