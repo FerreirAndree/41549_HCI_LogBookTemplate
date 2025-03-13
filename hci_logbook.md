@@ -49,6 +49,8 @@ Each of us did an Heuristic Evaluation of the Mobile App from BusWay, giving our
 - Building the personas:
 We made a persona that characterizes the average user of the bus system and, in consequence, a bus app. Personality, Qualities and Ability Range is well defined and realistic.
 
+We also made up some scenarios that persona might face while using the app and the bus.
+
 ---
 # [P1 - First Assignment Presentation](presentation_1/p1_first_assignment_presentation.md)
 >	Presentations will take place in weeks 5 and 6

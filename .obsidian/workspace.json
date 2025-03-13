@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stage1_context/heuristic_evaluations/expert3_heuristic_evaluation_workbook.md",
+                "file": "hci_logbook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "expert3_heuristic_evaluation_workbook"
+              "title": "hci_logbook"
             }
           },
           {
@@ -196,9 +196,9 @@
   },
   "active": "5f7c9da53de199d2",
   "lastOpenFiles": [
+    "stage1_context/heuristic_evaluations/expert3_heuristic_evaluation_workbook.md",
     "stage1_context/heuristic_evaluations/expert1_heuristic_evaluation_workbook.md",
     "stage1_context/heuristic_evaluations/expert2_heuristic_evaluation_workbook.md",
-    "stage1_context/heuristic_evaluations/expert3_heuristic_evaluation_workbook.md",
     "stage1_context/b_stage_1_context_definition.md",
     "stage2_requirements/c_stage_2_requirement_definition.md",
     "stage2_requirements/personas/persona2.jpg",
