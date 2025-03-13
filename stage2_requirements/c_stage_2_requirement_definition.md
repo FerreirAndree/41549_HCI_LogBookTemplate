@@ -44,6 +44,11 @@
 
 [As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned.  ]
 
+# Scenario x: Andreia catches the bus to University
+It's 8:15 A.M. Andreia is about to leave home to head to University, but it's pouring outside and she doesn't want to get wet. 
+That said, she needs to spend the minimum amount of time outside between leaving home and catching the bus… So she opens up *¿WhereTheBusAt?* goes to her favorites and selects the line she catches every day to go to Uni. 
+Now she can see that the bus is still about 4km away from her stop, which will take roughly 7 minutes, she waits for a while and when it is about to arrive she leaves, catches it, and off she goes.
+
 # Scenario 1: Andrea finds the fastest route to save time
 Andreia just got out from the "CRM Management" class (on ISCAA) on a Thursday at 17:00. She needs to rush to her friend's house to grab some things she forgot there the night before to then go home.
 
@@ -91,42 +96,30 @@ Andreia is spending a Monday's afternoon studying at the university library. She
 To solve this, she opens the WhereTheBusIs app and selects Line 18 from her **favorite routes**. Once she sees the live bus tracker showing her bus’s current location, she taps on the “Set Arrival Alert” button. A menu pops up, allowing her to choose when to receive the alert. She **selects the option** for a 2-minute alert, which will notify her when the bus is 10 minutes away from her stop.
 
 The app confirms the alert is set, and Andreia continues studying. A few minutes later, as she’s wrapping up her notes, she receives a **push notification**: "Your bus (Line 18) is 10 minutes away." So, Andreia quickly packs up her things and heads out to the bus stop just in time to catch the bus.
-## Scenario Andreia catches a new bus line
 
+# Scenario 7: Andreia catches a new bus line
 Andreia just got out from the "CRM Management" class (on ISCAA) on a Thursday at 17:00. 
 She needs to rush to her friend's house to grab some things she forgot there the night before to then go home. 
 She needs to get the first bus passing by the University ASAP but she doesn't yet know which bus she'll need to catch to get there, so she opens up the app, selects her friend's house location (roughly) on the app's map and clicks on 'plan trip'. 
 After a few seconds she gets the outline of the trip there with the buses she has to catch to get there, luckily she only needs to catch bus 36. There she has the option to select the line right away, she clicks it, and all the buses from that line currently on the road pop up on the map, she notices there's one fairly close to her, she checks the live estimated time for the bus to arrive at ISCAA's stop, it's 3 minutes out. 
 The bus arrives, she catches it, buys the ticket to the driver and off she goes…
 
-
-# Scenario x: Andreia catches the bus to University
-
-It's 8:15 A.M. Andreia is about to leave home to head to University, but it's pouring outside and she doesn't want to get wet. 
-That said, she needs to spend the minimum amount of time outside between leaving home and catching the bus… So she opens up *¿WhereTheBusAt?* goes to her favorites and selects the line she catches every day to go to Uni. 
-Now she can see that the bus is still about 4km away from her stop, which will take roughly 7 minutes, she waits for a while and when it is about to arrive she leaves, catches it, and off she goes.
-
-
-# Scenario 1: Andreia Adds a Route to Favorites
-Andreia wants to add her bus route to university to the favorites. She opens the app and searches for the route. As she finds it, she clicks on the tab that pops up and clicks on the star shaped icon on the top right corner of said app. After this, every time she wants to check that route, all she has to do is go to the favorites tab and 
+# Scenario 8: Andreia Adds a Route to Favorites
+Andreia wants to add her bus line to university to the favorites. She opens the app and searches for the route. As she finds it, she clicks on the tab that pops up and clicks on the star shaped icon on the top right corner of said tab. After this, every time she wants to check that route, all she has to do is go to the favorites tab and click on the saved line. All options regarding that line are immediately available to her with less clicks.
 
 ---
 
 
 # Requirements
 
-
-
-
-
 ## C.1. Functional requirements
-1. Real-time bus tracking 
+1. Real-time bus tracking:
 
 C.1.1. The app must display live tracking of buses on a map, showing the current location of buses.
 
 C.1.2 The app must show the estimated arrival time for buses at the selected stop.
 
-2. Shedules consulting
+2. Shedules consulting:
 
 C.1.2. The app has to offer the ability to check shedules for specific lines, including regular and non-working days.
 
@@ -141,13 +134,13 @@ C.1.2. The app must have "Alerts" section with detailed information about affect
 C.1.3. The app must allow users to set notification about the arrival of specific bus to alert them that the bus is near.
 
 
-4. Favourites
+4. Favourites:
 
 C.4.1. Users should be able to save their favorite bus lines in "Favorites" section.
 
 C.4.2. The app must allow to quickly check shedules and real-time tracking of favourite routes.
 
-5. Ticket purchasing
+5. Ticket purchasing:
 
 C.5.1. Users should be able to buy single-use ticket and renew month pass.
 
@@ -157,11 +150,11 @@ C.5.3. The app should privide QR code for ticket/pass use.
 
 C.5.4. The app must provide the possibility to buy the ticket for another person.
 
-6. Account
+6. Account:
 
 C.6.1. Users should be able to create account for setting preferences, changing language, saving payment details and most-used routes information.
 
-7. Trip planning
+7. Trip planning:
 
 C.7.1. The app must provide a trip-planning feature, allow for users to select the destination (or determine their location automatically) and find the fastest or the most convenient route.
 

@@ -1,12 +1,14 @@
 <!-- 
 This markdown document will contain all information and decisions concerning the HCI project for
-< The Title of the Project Here >
+<¿WhereTheBusAt?>
 Work carried out by:
-
+Gonçalo Ribau
+Solomiia Koba
+André Ferreira
 -->
 # *HCI Project Logbook*
 
-**Title of the project**:-- ***[¿WhereTheBusAt?]***
+**Title of the project**:-- ***¿WhereTheBusAt?***
 **Team:**
 - Student 1: André Ferreira - 119061
 - Student 2: Solomiia Koba - 118313
@@ -15,7 +17,6 @@ Work carried out by:
 ---
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)
  > 	This stage corresponds to week 1. Describe the overall rationale that leads to choosing the project idea
-
 <!-- For this stage you will need to read this:-->
 
 - Choice of the project idea:
@@ -38,7 +39,7 @@ But since one of our member missed his bus and seemed pretty passionate about it
 > 	This stage spans weeks 2 and 3. It entails identifying competitors, analyse the most representative using heuristic evaluation and cognitive walkthrough, and understand how users currently approach the problem and their expectations and needs.
 
 - Heuristic Evaluation:
-Each of us did an Heuristic Evaluation of the WebApp from BusWay, giving our own opinions about its use and design.
+Each of us did an Heuristic Evaluation of the Mobile App from BusWay, giving our own opinions about its use and design.
  
 # [C. Stage 2 - Requirement Analysis](stage2_requirements/c_stage_2_requirement_definition.md)
 >	This stage corresponds to weeks 3 and 4, running in parallel with Stage 1, in week 3. After having the context, the obtained information is gathered in Personas and scenarios are built describing the vision for the new solution. Finally, requirements are defined.
@@ -46,7 +47,9 @@ Each of us did an Heuristic Evaluation of the WebApp from BusWay, giving our own
 
 
 - Building the personas:
-We made 3 personas to deal with the three main kinds of people who use existent applications or would use ours, with somewhat different personalities, qualities and ability range.
+We made a persona that characterizes the average user of the bus system and, in consequence, a bus app. Personality, Qualities and Ability Range is well defined and realistic.
+
+We also made up some scenarios that persona might face while using the app and the bus.
 
 ---
 # [P1 - First Assignment Presentation](presentation_1/p1_first_assignment_presentation.md)
