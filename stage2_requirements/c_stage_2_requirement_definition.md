@@ -164,10 +164,8 @@ C.7.3. Suggest routes based on current time and user's location.
 
 ---
 
-
-- Live Bus Tracking
-- 
 ## C.2. Non-functional requirements
+
 
 
 ---
