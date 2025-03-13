@@ -173,7 +173,39 @@ C.7.3. Suggest routes based on current time and user's location.
 
 - Live Bus Tracking
 - 
-## C.2. Non-functional requirements
+## N.2. Non-functional requirements
+1. Performance
+
+N.1.1. The app should load real-time tracking information within 5 seconds after opening the app.
+
+N.1.2. The app should show shedule and real-time tracking updates within 3 seconds.
+
+2. Reliability
+
+N.2.1. The system must run with minimal interruptions to bus tracking and notifications.
+N.2.2. The app should give for user clear message of errors.
+
+3. Usability
+
+N.3.1. The app should have simple and intuitive interface considering the different enviroments of usage and different categories of users.
+
+N.3.2. The app must have clear access to help.
+
+N.3.3. The app should support the option of languages based on user's preferences.
+
+4. Security
+
+N.4.1. The app must ensure secure payment.
+
+N.4.2. User's account information must be stored securely.
+
+5. Compatibility
+
+N.5.1. The app must be responsive on a variety of screen sizes, from small smartphones to tablets
+
+
+
+
 
 
 ---
