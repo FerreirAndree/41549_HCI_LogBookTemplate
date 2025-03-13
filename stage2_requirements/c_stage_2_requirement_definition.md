@@ -45,8 +45,8 @@
 [As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned.  ]
 
 
-# Scenario 1: Andreia goes to work
-
+# Scenario 1: Andreia Adds a Route to Favorites
+Andreia wants to add her bus route to university to the favorites. She opens the app and searches for the route. As she finds it, she clicks on the tab that pops up and clicks on the star shaped icon on the top right corner of said app. After this, every time she wants to check that route, all she has to do is go to the favorites tab and 
 
 ---
 
