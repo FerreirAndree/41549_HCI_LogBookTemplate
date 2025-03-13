@@ -107,7 +107,8 @@ That said, she needs to spend the minimum amount of time outside between leaving
 Now she can see that the bus is still about 4km away from her stop, which will take roughly 7 minutes, she waits for a while and when it is about to arrive she leaves, catches it, and off she goes.
 
 
-
+# Scenario 1: Andreia Adds a Route to Favorites
+Andreia wants to add her bus route to university to the favorites. She opens the app and searches for the route. As she finds it, she clicks on the tab that pops up and clicks on the star shaped icon on the top right corner of said app. After this, every time she wants to check that route, all she has to do is go to the favorites tab and 
 
 ---
 
