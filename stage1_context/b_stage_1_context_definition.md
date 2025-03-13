@@ -14,9 +14,8 @@
 
 | **Competitor**    | **Description**                             | Information repository              |
 | ----------------- | ------------------------------------------- | ----------------------------------- |
-| [Amazon Shoes]    | [Online platform selling shoe laces]        | [[Competitor Analysis AmazonShoes]] |
-| [Fnac Atacadores] | [Smartphone app to buy and sell shoe laces] |                                     |
-| ...               |                                             |                                     |
+| Busway Aveiro app    | Official Aveiro public transport app        | [[Competitor Analysis BusWay]] |
+
 
 
 
@@ -24,11 +23,16 @@
 ## B.1b. Detailed Competitor Analysis
 >	Choose the most notable competitor and do a more thorough analysis of their interactive solution
 
+Chosen competitor: Busway Aveiro application.
 
 ### - Heuristic Evaluation
 
 #### Method
-[ Describe the method used for the heuristic evaluation: procedure, number of experts, heuristics, severity scale considered, how was consensus done.]
+For the heuristic evaluation, we followed 10 Nielsen's Usability heuristics to analyze the user experience.
+1. Three experts of our team independently analyzed the app.
+2. Each expert identified usability issues based on Nielsen's heuristics.
+3. We assessed the severity of each issue using a 0 (no issue) to 4 (critical problem).
+4. After the individual procedure, we conducted to conclusions and prioritized key usability problems.
 
 
 #### Individual Evaluations
@@ -45,17 +49,26 @@
 
 >	After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
 
-| **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
+| **Issue**       | **André** | Solomiia | Gonçalo | Recommendations                             |
 | --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Something wrong | 3            | 1        | 0        | Something could be done to the button to... |
-| Another thing   | 4            | 3        | 4        | Other thing to recommend                    |
-| ...             |              |          |          |                                             |
-|                 |              |          |          |                                             |
-|                 |              |          |          |                                             |
-|                 |              |          |          |                                             |
-|                 |              |          |          |                                             |
-|                 |              |          |          |                                             |
-|                 |              |          |          |                                             |
+| 	It's difficult to navigate through the popup tab with favorite, near and recent routes| 2            | 2        | 0        |  Add 2 arrow buttons to navigate in easier way | 
+| 	The app rarely displays the real-time position of a bus on the map. When no bus is shown, there is no explanation as to why, nor any indication of a system issue. A user unfamiliar with this limitation might assume that no buses are currently operating on that line   | 3            | 3        | 0        | Show a message when real-time data is unavailable like "Real-time tracking is currently unavailable for this line. Please check the schedule for estimated times", map all buses on road                    |
+| 	When a bus is not being "mapped" in real time, as soon as the scheduled arrival time passes, the app assumes the bus will not arrive and instead displays the next scheduled bus as the next available option.             |    4          |   4       |      0    |     Recommendation from above                                        |
+|  	Error message about incorrect setting of notifications is unclear, thus the user can't understand how to use this feature and what is wrong  |   0    | 3 |        0       |     Display clear error message with troubleshooting tips         |  
+| 	Missing descriptive information (e.g.originally, it's difficult to understand the purpose of "man", some values etc)| 0 | 2 | 2 | Add description labels like "bus stop in: - mins" to help user get what the system is displaying |     
+|   The warnings tab does not promote fast understanding of the line changes and such as it could do. Its also not explicit that you have to click the warning text to get more info. Also some warnings have a map and other have the download file for the map.	 |   0  |   3   |   4 |  Give some visual cues to help get to that conclusion and fix the maps       | 
+|	 The icon for user location can be confused with search icon| 0  | 1 |  0 | Use diferent icon         
+| 	The distance to bus stop is always "0m", so thus the user can think it's near| 0 | 2 | 0 | Recalculate distance to show useful and real values  
+| 	The only way for returning to the previous page<br>is by the browser's default return button. Some<br>less experienced computer users might get lost. | 0 | 2 | 1 | Add some kind of return button to the subpages |
+| 	Some warnings have maps and other have a file for download. |0 | 2 |2 | Make either all maps or all files for download. |  
+| 	No confirmation before deleting saved routes, users may unintentionally delete them | 0  | 3 | 0|  Add confirmation prompt
+|No option to change language (for some users that don't understand the language selected by system it gets impossible to use the app)|  0 |  3 | 0  | Add language option in menu settings|
+| 	The design is minimalistic, doesn't contain unnecessary information |0 |  0 |0 | No suggestion, it's good point.
+| 	Font size is too small on some pages| 0 | 2 | 0  | Add bigger font or allow to users edit the size. 
+|	User need remember exact names of bus stop for searching|  | 3 | |  Implement automatic sugestions (based on name of location)    |       
+| 	Different Schedule pages for different destinations, even ones that go through the same route. | 0| 0| 2 | Reorganize the routes page or make it a single one. Perhaps give an estimation of the course and routes you are able to take. |            
+| 	Absence of customer support/contact option whithin the app for users experiencing issues or onboarding tutorials for new users | 0 | 3 | 0 | Include help section or chatbot feature                 
+
 
 
 
@@ -63,33 +76,38 @@
 ### - Cognitive Walkthrough
 
 #### Method
-[Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
+The cognitive walkthrough method evaluates the usability of app by analyzing how easily a new user can complete key tasks. This process can identify potential dificulties users might face when navigating the app.
 
 #### Task Selection and Task Analysis
 
-[Which tasks did you select and why. What are the subtasks entailed for each ]
-
+We selected the tasks that are critical for user experience in public transport area.
 
 | Task                        | Subtasks                               |
 | --------------------------- | -------------------------------------- |
-| **1. Consult shedules**     | Select "view shedules" section         |
-|                             | Choose a line						   |
-|                             | Define a direction			           |
-|                             | Select day type                        |
-|							  | Confirm and proceed with consulting    |
+| **1. Consult shedules**     | 1. Open the app         |
+|                             | 2. Select "view shedules"						   |
+|                             | 3. Choose a line 							   |
+|                             | 4. Define a direction (departure/arrival)			           |
+|                             | 5. Select day type                        |
+|							  | 6. Confirm and proceed with consulting    |
 
 
 | Task                          | Subtasks                                |
 | ----------------------------- | --------------------------------------- |
-| **1. Booking a train ticket** | Select departure and destination cities |
-|                               | Choose travel date and time             |
-|                               | Pick a seat (if applicable)             |
-|                               | Confirm booking and make payment        |
+| **2. Plan a trip**            | 1. Open the app |
+|								| 2. Open "Route planning" section
+|                               | 3. Select user's current location (initial point)                 |
+|                               | 4. Choose destination              |
+|                               | 5. Put the time        |
+|								| 6. Select route option (faster/...)
+| 								| 7. Confirm the information above|
+| 								| 8. Observe the exibited route (if the input was correct) and consult details of route
+
 
 
 #### Results
 
-Task: Consult shedules
+Task1: Consult shedules
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
@@ -106,10 +124,16 @@ Task2: [This is the task2]
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | [Step 1 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |     |
-| 2      | [Step 2 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
-| 3      | [Step 3 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| ...    | [Further steps]        | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
+| 1      | The user opens app   | Yes                                         |       | Yes                                                                                 |   The main screen appears    | Yes                       | ------              |     |
+| 2      | Navigates to "New departures"   | Yes                                         |      | Yes                                                                                  |   The appropriate interface with map appears    | Yes                       | ------              |     |
+| 3      | Select the point for departure (current location/select on map)   | Yes |  If the user select by his current location and not through the map, it doesn't urges any effort from user. But as the first-time user how to do this, because the mark of location has to coincide with stop icon    | Yes                                                                                  | It will be exibited on the camp "your location"    | Yes                       | Add the tooltips that indicated how to select the stop on the map              |     |
+| 4      | Destination selection (by map, typing or automatic location detection)   | Yes |  The same issues from above    | Yes                                                                                  | It will be exibited on the camp "your location"    | Yes                       | Add the tooltips that indicated how to select the stop on the map              |     |
+| 5   | Select time (now or set specific time of the day)        | Yes                                         |       | Yes                                                                                  |       | Yes                       | -----               |     
+| 6	| A user chose a path type		|	Yes		|	| No | The system doesn't show on the camp the selected option, the user need to open the list another time just to see whether it was selected or no | Yes| Show the selected option on the screen 	|
+| 7 | Cick on the confirmation button| Yes | | Yes| There appears the route information (bus stops...)| Yes| --
+
+
+
 
 
 
@@ -121,7 +145,8 @@ Task2: [This is the task2]
 
 ## B.2a. Method
 
-[What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
+For the user interviews, we adjusted the questions from a previous template to better suit our system. We conducted interviews with five users who had varying levels of experience with public transport. While we followed the structured questions, the conversations often extended beyond the predefined topics, allowing for deeper insights into user needs and behaviors.
+
 ## B.2b. Results
 
 >	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
